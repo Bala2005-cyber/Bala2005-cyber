@@ -1,0 +1,91 @@
+/* Global Styles */
+body {
+    font-family: 'Verdana', sans-serif;
+    background: linear-gradient(135deg, #7F00FF 0%, #E100FF 100%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container Styles */
+.login-container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    width: 400px;
+    text-align: center;
+}
+
+.login-container h1 {
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 20px;
+    background: -webkit-linear-gradient(#7F00FF, #E100FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Form Styles */
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.form-group label {
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 2px solid #e0e0e0;
+    background: #f9f9f9;
+    transition: all 0.3s;
+}
+
+.form-group input:focus {
+    border-color: #7F00FF;
+    background-color: #ffffff;
+    outline: none;
+}
+
+/* Button */
+.form-group button {
+    width: 100%;
+    padding: 12px;
+    background-color: #7F00FF;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-group button:hover {
+    background-color: #6a00cc;
+}
+
+/* Already Registered Link */
+.message {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.message a {
+    color: #7F00FF;
+    text-decoration: none;
+}
+
+.message a:hover {
+    text-decoration: underline;
+}
