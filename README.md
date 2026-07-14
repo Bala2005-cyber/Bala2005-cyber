@@ -45,11 +45,21 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [🌍 Tourism](https://github.com/Bala2005-cyber/tourism) | Tourism-focused web application | — |
+| [🍳 Recipe API (Spring Boot)](https://github.com/Bala2005-cyber/Springboot_java_Mysql_recipe_api) | REST API for recipes built with Java, Spring Boot & MySQL | Java, Spring Boot, MySQL |
+| [📄 RFP Analysis Website + AI Agents](https://github.com/Bala2005-cyber/rpf_website_Tec) | Full-stack RFP analysis platform with AI agents (frontend, backend & UI split across supporting repos) | JavaScript, AI Agents |
+| [📮 Post Office Scheme Recommendation](https://github.com/Bala2005-cyber/Post_office_Scheme_recommendation-) | Recommends Post Office savings schemes based on user input | Python |
 | [🌊 Coastal Data](https://github.com/Bala2005-cyber/Coastal-data) | Application working with coastal data | JavaScript |
-| [📮 Post Office Scheme Recommendation](https://github.com/Bala2005-cyber/Post_office_Scheme_recommendation-) | Recommends Post Office savings schemes | Python |
-| [📄 RFP Website + AI Agents](https://github.com/Bala2005-cyber/rpf_website_Tec) | Full RFP analysis website powered by AI agents | JavaScript |
-| [⚙️ RFP Backend](https://github.com/Bala2005-cyber/rfb_backend_code-) | Backend service supporting the RFP analysis platform | JavaScript |
+| [🌍 Tourism](https://github.com/Bala2005-cyber/tourism) | Tourism-focused web application | — |
+
+### 🤝 Collaborative / Forked Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🌱 AgroVision](https://github.com/Bala2005-cyber/AgroVision) | AI-powered agricultural decision support system | Jupyter Notebook / Python |
+| [🎓 PlacementTracker](https://github.com/Bala2005-cyber/PlacementTracker) | App for department (CSBS) placement activities | JavaScript |
+| [💧 Waterborne](https://github.com/Bala2005-cyber/Waterborne) | Collaborative project on waterborne disease/data awareness | Dart |
+| [🚰 Jalsuraksha](https://github.com/Bala2005-cyber/Jalsuraksha) | Collaborative water-safety focused project | Dart |
+| [🏛️ PM-Ajay Website](https://github.com/Bala2005-cyber/PM-Ajay-Website) | Website for the PM-AJAY government scheme | JavaScript |
 
 ---
 
